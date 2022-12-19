@@ -1,9 +1,10 @@
-# Hi, I’m Jack :smile:
+# Hi, I'm Jack :smile:
 
-I’m a second-year electrical engineering student at the University of Waterloo with a passion for problem-solving, innovation, and collaboration.
+I'm a second-year electrical engineering student at the University of Waterloo with a passion for problem-solving, innovation, and collaboration.
 
 I'm working on embedded systems, developing drones for a design team at Waterloo - Waterloo Ariel Robotics Group (WARG). Through this experience 
-I developed my C, C++, and source control skills. In the future, I would like to increase my fluency in Python, Java, HTML, and CSS. 
+I developed my C, C++, and source control skills. In the future, I want to increase my fluency in Python, Java, HTML, and CSS. I would also 
+like to become more involved in electrical design and implementation using CAD software such as Altium Designer. 
 
 # Contact me 
 - Email: j9greenw@uwaterloo.ca 
