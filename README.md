@@ -1,14 +1,15 @@
 # Hi, I'm Jack :smile:
 
-I'm a second-year electrical engineering student at the University of Waterloo with a passion for problem-solving, innovation, and collaboration.
+I'm an electrical engineering graduate from the University of Waterloo with a passion for problem-solving, innovation, and collaboration.
 
-I'm working on embedded systems, developing drones for a design team at Waterloo - Waterloo Ariel Robotics Group (WARG). Through this experience 
-I developed my C, C++, and source control skills. In the future, I want to increase my fluency in Python, Java, HTML, and CSS. I would also 
-like to become more involved in electrical design and implementation using CAD software such as Altium Designer. 
+I love solving fun problems that involve collaboration and complex technical thinking. I'm currently expanding my expertise in all things tech-related- PCB design, embedded systems, and web dev for starters.
+
+If you would like to learn more about me or my projects, feel free to reach out via the methods below.
 
 # Contact me 
-- Email: j9greenw@uwaterloo.ca 
-- Linkedin: www.linkedin.com/in/jack-d-greenwood 
+- Website: [Soon]
+- Email: jack.greenwood@uwaterloo.ca 
+- LinkedIn: www.linkedin.com/in/jack-d-greenwood 
 
 <!---
 JackGRWD/JackGRWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
